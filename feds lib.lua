@@ -2,6 +2,7 @@
 
 -- (GUI SRC)
 
+--https://v3rmillion.net/showthread.php?tid=1182163
 local library = {}
 library.Flags = {}
 library.DefaultColor = Color3.fromRGB(56, 207, 154)
